@@ -16,6 +16,8 @@ A modern, responsive login page with smooth animations and form validation. Buil
 ```
 📛 login-page
  ┓ 📄 index.html  # Main login page
+ ┓ 📄 styles.css  # Style docs
+ ┓ 📄 app.js  # Java script file
  ┓ 📄 README.md  # Project documentation
 ```
 
